@@ -23,6 +23,6 @@ Based on the level of risk, the investment recommendation is as follows:
 6. Very High: "0% bonds (AGG), 100% equities (SPY)"
 
 
-![TestBot 1](TestBot_1.png)
+![TestBot 1](TestBot_1.PNG)
 ![TestBot 2](TestBot_2.png)
 ![TestBot 3](TestBot_3.png)
