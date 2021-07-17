@@ -24,5 +24,5 @@ Based on the level of risk, the investment recommendation is as follows:
 
 
 ![TestBot 1](TestBot_1.PNG)
-![TestBot 2](TestBot_2.png)
-![TestBot 3](TestBot_3.png)
+![TestBot 2](TestBot_2.PNG)
+![TestBot 3](TestBot_3.PNG)
